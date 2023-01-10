@@ -1,0 +1,89 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: aquamarine;
+    margin-top: 1rem;
+    text-align: center;
+  
+    /* background-image: url("https://i.pinimg.com/originals/54/e8/12/54e812540ab281edef37fa3d94d4fa5f.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
+    background-image: linear-gradient(rgb(255, 255, 255) 35%,rgb(177, 179, 180),rgb(164, 113, 113));
+
+}
+.img-logo-left{
+    width: 10rem;
+    height: 10rem;
+    margin-top: 1rem;
+    border-radius: 0.2rem;
+    float: left;
+    background-color: blanchedalmond;
+    color: blanchedalmond;
+}
+
+.main-head{
+    text-align: center;
+    width: auto;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    margin-left: auto;
+}
+.head-1{
+    text-align: center;
+    width: auto;
+    margin-left: auto;
+}
+
+h6{
+    text-align: center;
+    width: auto;
+    margin-left: auto;   
+    padding: 0.2rem;
+}
+.thirukkural-input{
+    
+    text-align: left;
+    border: 0.2rem solid black;
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    width: 50%;
+    height: 2rem;
+    padding: 1rem;
+    background-color: rgb(234, 240, 240);
+    box-shadow: 0.1rem 0.2rem 0.2rem 0.2rem black;
+   
+}
+
+.btn-1{
+    width: 15%;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    background-color: rgb(116, 111, 111);
+    color:rgb(9, 237, 47) ;
+    border-radius: 1rem;
+    display: block;
+    margin: 1rem auto;
+}
+
+.btn-1:hover{
+    background-color: rgb(208, 187, 228);
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
+.card{
+ 
+    background-image:linear-gradient(rgb(255, 255, 255) 35%,rgb(177, 179, 180),rgb(164, 113, 113));
+    padding: 1rem;
+    border: none;
+    /* background-image: url("https://os.me/wp-content/uploads/2022/09/THIRUVALLUVAR_ORIGINAL_PORTRAIT.jpg.optimal.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; */
+}
